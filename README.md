@@ -18,4 +18,9 @@ Security Incident Analysis report for ACME, fictitious company.
 - Recommendations 
 
 ## Full report here :
-![Marvin The Martian Security Operations] (https://docs.google.com/document/d/e/2PACX-1vTBfXdBaYD9EKLrub9JQ-QwGq6qAciCbabrkyo3n7ZQNJPXbRAY_J4Gm5CVp___wBvXsJd2wfxwyuFX/pub)
+![Marvin The Martian Security Operations]
+
+(https://docs.google.com/document/d/e/2PACX-1vTBfXdBaYD9EKLrub9JQ-QwGq6qAciCbabrkyo3n7ZQNJPXbRAY_J4Gm5CVp___wBvXsJd2wfxwyuFX/pub.doc)
+
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTBfXdBaYD9EKLrub9JQ-QwGq6qAciCbabrkyo3n7ZQNJPXbRAY_J4Gm5CVp___wBvXsJd2wfxwyuFX/pub?embedded=true"></iframe>
